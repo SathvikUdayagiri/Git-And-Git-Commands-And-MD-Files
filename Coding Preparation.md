@@ -12,7 +12,9 @@
 
 [5] [Printing Pattern Programs in C](https://youtube.com/playlist?list=PLdo5W4Nhv31Yu1igxTE2x0aeShbKtVcCy)
 
-[6] [Python Pattern Printing Programs Video Tutorial s](https://youtube.com/playlist?list=PLzgPDYo_3xuliFyI5dZKgYB99SMUscGyp)
+[6] [Python Pattern Printing Programs Video Tutorial s](https://youtube.com/playlist?list=PLzgPDYo_3xuliFyI5dZKgYB99SMUscGyp) 
+
+[7] [Data Structures and Algorithms in c](https://youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 
 [Coding Preparation Reference Links](https://docs.google.com/document/d/1y_JuN6Knzp0GkKCol1rIoSOD0KeXtPrQNmigVrl3IkQ/edit?usp=sharing)
 
