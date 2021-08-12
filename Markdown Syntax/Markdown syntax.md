@@ -1,5 +1,17 @@
 # Markdown syntax guide
 
+# Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
+
+## Example
+## Example2
+## Third Example
+## [Fourth Example](http://www.fourthexample.com)
+
 ## Headers
 
 # This is a Heading h1
@@ -1969,3 +1981,21 @@ can require that usage be consistent within the document.
 Rationale: Consistent formatting makes it easier to understand a document.
 
 https://guides.github.com/features/mastering-markdown/
+
+# Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
+
+## Example
+## Example2
+## Third Example
+## [Fourth Example](http://www.fourthexample.com)
+
+https://gist.github.com/rxaviers/7360908
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
+https://github.com/ikatyang/emoji-cheat-sheet

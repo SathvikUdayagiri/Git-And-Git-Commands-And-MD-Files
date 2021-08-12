@@ -12,11 +12,21 @@
 
 [5] [Printing Pattern Programs in C](https://youtube.com/playlist?list=PLdo5W4Nhv31Yu1igxTE2x0aeShbKtVcCy)
 
-[6] [Python Pattern Printing Programs Video Tutorial s](https://youtube.com/playlist?list=PLzgPDYo_3xuliFyI5dZKgYB99SMUscGyp) 
-
-[7] [Data Structures and Algorithms in c](https://youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
+[6] [Python Pattern Printing Programs Video Tutorial s](https://youtube.com/playlist?list=PLzgPDYo_3xuliFyI5dZKgYB99SMUscGyp)
 
 [Coding Preparation Reference Links](https://docs.google.com/document/d/1y_JuN6Knzp0GkKCol1rIoSOD0KeXtPrQNmigVrl3IkQ/edit?usp=sharing)
+
+### Strings
+
+1. Write a program to add the integers in the given string. 
+    ex:
+    input: tge1ewf23fe5
+    output: 29 (1+23+5)
+
+2. Given a string with no spaces in "camel case" you have to separate them with space and make all the capital letters small.
+    ex:
+    input: ThisIsAExample
+    output: this is a example
 
 ### Day-1
 
