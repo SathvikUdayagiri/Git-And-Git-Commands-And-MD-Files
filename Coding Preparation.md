@@ -28,6 +28,29 @@
     input: ThisIsAExample
     output: this is a example
 
+3. Given a string print the frequency of each character in the string.
+    ex:
+    input: this is a test strings
+    output: [t:3,h:1,i:3,s:5,a:1,e:1,r:1,n:1,g:1]
+
+4. String Permutations(***)
+    ex:
+    input: abc
+    output: [abc,acb,bac,bca,cab,cba]
+
+### Patterns
+
+1. Print the below Pattern:
+    ex:
+    input: Program
+    output:       g
+                 gr
+                gra
+               gram
+              gramp
+             grampr
+            grampro
+
 ### Day-1
 
 1. Hello World! program.    #basics
