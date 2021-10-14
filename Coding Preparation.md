@@ -66,9 +66,52 @@
 
 ### Day-2
 
+Number Crunching
+
+1.Program to find Average of n Numbers
+2.Armstrong Number
+3.Checking input number for Odd or Even
+4.Print Factors of a Number
+5.Find sum of n Numbers
+6.Print first n Prime Numbers
+7.Find Largest among n Numbers
+8.Exponential without pow() method
+9.Find whether number is int or float
+10.Print Multiplication Table of input Number
+
 ### Day-3
 
+Concept of Arrays
+
+1.Reverse an Array
+2.Insert Element to Array
+3.Delete Element from Array
+4.Largest and Smallest Element in Array
+5.Sum of N Numbers using Arrays
+6.Sort Array Elements
+7.Remove Duplicate Elements
+8.Sparse Matrix
+9.Square Matrix
+10.Determinant of 2x2 matrix
+11.Normal and Trace of Square Matrix
+12.Addition and Subtraction of Matrices
+13.Matrix Mulitplication
+
 ### Day-4
+
+Pointers
+
+1.Simple Program
+2.Memory Management
+3.Array of Pointers
+4.Pointer Increment and Decrement
+5.Pointer Comparison
+6.Pointer to a Pointer
+7.Concatenate Strings using Pointer
+8.Reverse a String using Pointer
+9.Swapping Two Numbers
+10.Pointer to a Function
+11.Null Pointer
 
 ### Day-5
 
