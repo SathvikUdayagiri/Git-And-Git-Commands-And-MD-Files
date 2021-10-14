@@ -1,21 +1,5 @@
 # Coding Preparation
 
-## References Links.
-
-[1] [Java Tutorial For Beginners](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK) or [Java Tutorial for Beginners | Full Course](https://youtu.be/8cm1x4bC610)
-
-[2] [Python Tutorial for Beginners (Full Course)](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) or [Python Tutorial for Beginner | Full Course](https://youtu.be/YfO28Ihehbk)
-
-[3] [Git Tutorial for Beginners](https://youtu.be/WbwIoQYP6no) or [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk) or [Git Tutorial for Beginners](https://www.youtube.com/watch?v=OdbBmvfThJY&list=PLsyeobzWxl7q2eaUkorLZExfd7qko9sZC)
-
-[4] [How To Add Eclipse Project To GitHub](https://youtu.be/LPT7v69guVY)
-
-[5] [Printing Pattern Programs in C](https://youtube.com/playlist?list=PLdo5W4Nhv31Yu1igxTE2x0aeShbKtVcCy)
-
-[6] [Python Pattern Printing Programs Video Tutorial s](https://youtube.com/playlist?list=PLzgPDYo_3xuliFyI5dZKgYB99SMUscGyp)
-
-[Coding Preparation Reference Links](https://docs.google.com/document/d/1y_JuN6Knzp0GkKCol1rIoSOD0KeXtPrQNmigVrl3IkQ/edit?usp=sharing)
-
 ### Strings
 
 1. Write a program to add the integers in the given string. 
@@ -122,3 +106,21 @@ Pointers
 ### Day-8
 
 ### Day-9
+
+## References Links.
+
+[1] [Java Tutorial For Beginners](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK) or [Java Tutorial for Beginners | Full Course](https://youtu.be/8cm1x4bC610)
+
+[2] [Python Tutorial for Beginners (Full Course)](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) or [Python Tutorial for Beginner | Full Course](https://youtu.be/YfO28Ihehbk)
+
+[3] [Git Tutorial for Beginners](https://youtu.be/WbwIoQYP6no) or [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk) or [Git Tutorial for Beginners](https://www.youtube.com/watch?v=OdbBmvfThJY&list=PLsyeobzWxl7q2eaUkorLZExfd7qko9sZC)
+
+[4] [How To Add Eclipse Project To GitHub](https://youtu.be/LPT7v69guVY)
+
+[5] [Printing Pattern Programs in C](https://youtube.com/playlist?list=PLdo5W4Nhv31Yu1igxTE2x0aeShbKtVcCy)
+
+[6] [Python Pattern Printing Programs Video Tutorial s](https://youtube.com/playlist?list=PLzgPDYo_3xuliFyI5dZKgYB99SMUscGyp)
+
+[Coding Preparation Reference Links](https://docs.google.com/document/d/1y_JuN6Knzp0GkKCol1rIoSOD0KeXtPrQNmigVrl3IkQ/edit?usp=sharing)
+
+[Reference link 1](https://www.studytonight.com/c/programs/)
